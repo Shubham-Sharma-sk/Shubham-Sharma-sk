@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
 <h3 align="center">Cloud Enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=@Shubham-Sharma-sk&label=Profile%20views&color=0e75b6&style=flat" alt="@Shubham-Sharma-sk" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham-Sharma-sk&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham-Sharma-sk" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=@Shubham-Sharma-sk&theme=" alt="@Shubham-Sharma-sk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubham-Sharma-sk&theme=" alt="Shubham-Sharma-sk" /></a> </p>
 
 - 🔭 I’m currently Pursuing **Btech**
 - 👯 I’m looking to collaborate on **DevOps Project**
@@ -15,12 +15,12 @@
 - 📄 Know about my experiences **https://shubhamskportfolio.netlify.app/**
 - ⚡ Fun fact **I think i am funny**
 
-<div> <a href="https://www.linkedin.com/in/@shubham-sharma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/@Shubham-Sharma-sk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/shubham-sharma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Shubham-Sharma-sk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href = "mailto:https://www.linkedin.com/in/shubham-sharma-11844824a/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@shubham-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="@shubham-sharma" height="30" width="40" /></a><a href="https://medium.com/@shubhamsharma2004.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@shubhamsharma2004.16" height="30" width="40" /></a></p>
+<a href="https://linkedin.com/in/shubham-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="shubham-sharma" height="30" width="40" /></a><a href="https://medium.com/@shubhamsharma2004.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@shubhamsharma2004.16" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -44,20 +44,18 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=@Shubham-Sharma-sk&layout=compact&theme=" alt=@Shubham-Sharma-sk />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Sharma-sk&langs_count=8&theme=dark" alt=Shubham-Sharma-sk />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=@Shubham-Sharma-sk&show_icons=true&locale=en&theme=" alt="@Shubham-Sharma-sk" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=@Shubham-Sharma-sk&theme=" alt="@Shubham-Sharma-sk" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Sharma-sk&theme=" alt="Shubham-Sharma-sk" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/@Shubham-Sharma-sk">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=@Shubham-Sharma-sk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=@Shubham-Sharma-sk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=@Shubham-Sharma-sk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=@Shubham-Sharma-sk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=@Shubham-Sharma-sk&theme=default" height="180em" />
+<a href="https://github.com/Shubham-Sharma-sk">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham-Sharma-sk&theme=nord_dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham-Sharma-sk&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham-Sharma-sk&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham-Sharma-sk&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham-Sharma-sk&theme=default" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=@Shubham-Sharma-sk&theme=default"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Sharma-sk&theme=react"/>
