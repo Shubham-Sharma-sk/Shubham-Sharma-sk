@@ -20,7 +20,7 @@
 <a href = "mailto:https://www.linkedin.com/in/shubham-sharma-11844824a/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/shubham-sharma](https://www.linkedin.com/in/shubhamsharmadevops%E2%98%81%EF%B8%8F/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="shubham-sharma" height="30" width="40" /></a><a href="https://medium.com/@shubhamsharma2004.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@shubhamsharma2004.16" height="30" width="40" /></a></p>
+<a href="(https://www.linkedin.com/in/shubhamsharmadevops%E2%98%81%EF%B8%8F/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="shubham-sharma" height="30" width="40" /></a><a href="https://medium.com/@shubhamsharma2004.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@shubhamsharma2004.16" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
