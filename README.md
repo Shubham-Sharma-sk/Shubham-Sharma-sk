@@ -12,7 +12,7 @@
 - 📫 How to reach me **https://www.linkedin.com/in/shubham-sharma-11844824a/**
 - 👨‍💻 All of my projects are available at **https://github.com/Shubham-Sharma-sk**
 - 📝 I regularly write articles on **Medium**
-- 📄 Know about my experiences **https://shubhamskportfolio.netlify.app/**
+- 📄 Know about my experiences **https://shubhams-portfolio.vercel.app/**
 - ⚡ Fun fact **I think i am funny**
 
 <div> <a href="https://www.linkedin.com/in/shubhamsharmadevops%E2%98%81%EF%B8%8F?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5ctvW1m4TYOfKW22r3w3lg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
