@@ -1,61 +1,214 @@
-<h1 align="center">Hi 👋, I'm Shubham Sharma</h1>
-<h3 align="center">Cloud Enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubham-Sharma-sk&label=Profile%20views&color=0e75b6&style=flat" alt="Shubham-Sharma-sk" /> </p>
+# 🌟 Shubham Sharma
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Shubham-Sharma-sk&theme=" alt="Shubham-Sharma-sk" /></a> </p>
-
-- 🔭 I’m currently Pursuing **Btech**
-- 👯 I’m looking to collaborate on **DevOps Project**
-- 🤝 I’m looking for help with **DevOps tools and Cloud Enthusiast**
-- 🌱 I’m currently learning **DevOps Tools and MERN Stack**
-- 💬 Ask me about **DevOps and MERN Stack**
-- 📫 How to reach me **https://www.linkedin.com/in/shubham-sharma-11844824a/**
-- 👨‍💻 All of my projects are available at **https://github.com/Shubham-Sharma-sk**
-- 📝 I regularly write articles on **Medium**
-- 📄 Know about my experiences **https://shubhams-portfolio.vercel.app/**
-- ⚡ Fun fact **I think i am funny**
-
-<div> <a href="https://www.linkedin.com/in/shubhamsharmadevops%E2%98%81%EF%B8%8F?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5ctvW1m4TYOfKW22r3w3lg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Shubham-Sharma-sk" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:https://www.linkedin.com/in/shubham-sharma-11844824a/"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="(https://www.linkedin.com/in/shubhamsharmadevops%E2%98%81%EF%B8%8F/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="shubham-sharma" height="30" width="40" /></a><a href="https://medium.com/@shubhamsharma2004.16" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@shubhamsharma2004.16" height="30" width="40" /></a></p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" alt="Amazon Web Services" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/circleci-icon.svg" alt="Circleci" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-</p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Sharma-sk&langs_count=8&theme=dark" alt=Shubham-Sharma-sk />
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Sharma-sk&theme=" alt="Shubham-Sharma-sk" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Shubham-Sharma-sk">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shubham-Sharma-sk&theme=nord_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shubham-Sharma-sk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shubham-Sharma-sk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shubham-Sharma-sk&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shubham-Sharma-sk&theme=default" height="180em" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Digital%20Experiences%20•%20Cloud%20•%20DevOps&descAlignY=55&descSize=18" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Sharma-sk&theme=react"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Developer;☁️+Cloud+%26+DevOps+Engineer;💻+MERN+Stack+Specialist;🔧+Building+Scalable+Solutions;🌐+Open+to+New+Opportunities" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shubham-Sharma-sk&label=Profile%20Views&color=667eea&style=for-the-badge&labelColor=1c1917" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Shubham-Sharma-sk?label=Followers&style=for-the-badge&color=764ba2&labelColor=1c1917" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-brightgreen?style=for-the-badge&labelColor=1c1917" alt="Available for Hire" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+---
+
+## 🎯 About Me
+
+<div align="center">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
+
+```javascript
+const shubham = {
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
+    education: "B.Tech Student",
+    experience: "Building Production Applications",
+    availability: "🟢 Open to Full Stack Opportunities",
+    
+    product: "Hiaido Cloud - Live Production App",
+    website: "https://hiaido.cloud/",
+    
+    frontEnd: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    backEnd: ["Node.js", "Express.js", "MongoDB", "PostgreSQL"],
+    cloud: ["AWS", "Docker", "Kubernetes", "Serverless"],
+    
+    expertise: "End-to-End Application Development",
+    passion: "Building Scalable Web Solutions",
+    
+    philosophy: "Code • Ship • Scale • Repeat 🚀"
+};
+```
+
+<br clear="right"/>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadba4-0e83-4d32-b59c-6d827c17b5d3.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+</div>
+
+### 🎨 Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,redux&theme=dark" />
+</div>
+
+### ⚡ Backend Development  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,prisma&theme=dark" />
+</div>
+
+### ☁️ DevOps & Cloud
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,nginx,linux,git,github&theme=dark" />
+</div>
+
+### 🔧 Development Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel,netlify,heroku&theme=dark" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
+</div>
+
+## 📊 GitHub Analytics & Performance
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Shubham-Sharma-sk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=764BA2&text_color=ffffff"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Sharma-sk&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=ffffff"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-Sharma-sk&theme=radical&hide_border=true&background=0D1117&stroke=667EEA&ring=764BA2&fire=667EEA&currStreakLabel=764BA2" alt="GitHub Streak"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-Sharma-sk&bg_color=0D1117&color=667EEA&line=764BA2&point=FFFFFF&area=true&hide_border=true" />
+</div>
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shubham-Sharma-sk&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🌟 **Project** | 💻 **Tech Stack** | 🔗 **Links** |
+|:---|:---|:---|
+| **🚀 Hiaido Cloud** | Full Stack Cloud Solution | [🌐 Live Product](https://hiaido.cloud/) |
+| **E-Commerce Platform** | React, Node.js, MongoDB, AWS | [🌐 Live](https://github.com/Shubham-Sharma-sk) • [📱 Code](https://github.com/Shubham-Sharma-sk) |
+| **DevOps Pipeline** | Docker, Kubernetes, Jenkins, AWS | [🔧 Demo](https://github.com/Shubham-Sharma-sk) • [📂 Repo](https://github.com/Shubham-Sharma-sk) |
+| **Real-time Chat App** | React, Socket.io, Express, MongoDB | [💬 Live](https://github.com/Shubham-Sharma-sk) • [⚡ Code](https://github.com/Shubham-Sharma-sk) |
+
+</div>
+
+## 💼 Professional Experience & Skills
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="100">
+</div>
+
+### 🎯 **Expertise Areas**
+- **Frontend:** Responsive Web Design • SPA Development • UI/UX Implementation
+- **Backend:** RESTful APIs • Database Design • Microservices Architecture  
+- **DevOps:** CI/CD Pipelines • Container Orchestration • Cloud Deployment
+- **Full Stack:** End-to-end Application Development • Performance Optimization
+
+### 💡 **Currently Seeking**
+- **Full Stack Developer** positions
+- **Frontend Developer** roles
+- **Backend Developer** opportunities
+- **DevOps Engineer** positions
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+</div>
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/shubham-sharma-11844824a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://shubhams-portfolio.vercel.app/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E)](https://medium.com/@shubhamsharma2004.16)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/Shubham-Sharma-sk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:shubhamsharma2004.16@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+## 🌟 Featured Product
+
+<div align="center">
+  <a href="https://hiaido.cloud/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Hiaido%20Cloud-Live%20Product-success?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4" alt="Hiaido Cloud"/>
+  </a>
+  <br>
+  <sub>🌐 <strong>Full Stack Cloud Solution</strong> • Built with Modern Tech Stack</sub>
+</div>
+
+## 💡 Full Stack Development Focus
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="80">
+</div>
+
+### 🎯 **Core Competencies**
+- **🎨 Frontend Mastery:** React, Next.js, TypeScript, Modern UI/UX
+- **⚡ Backend Excellence:** Node.js, Express, Database Design, API Development  
+- **☁️ Cloud Integration:** AWS, Docker, Kubernetes, Microservices
+- **🔧 DevOps Pipeline:** CI/CD, Automation, Infrastructure as Code
+
+### 🚀 **What I Build**
+- **Web Applications:** End-to-end responsive applications
+- **Cloud Solutions:** Scalable cloud-native architectures  
+- **API Services:** RESTful and GraphQL APIs
+- **DevOps Systems:** Automated deployment pipelines
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+  
+  <h3>💻 "Code is like humor. When you have to explain it, it's bad." 💻</h3>
+  
+  **⭐ Star my repositories • 🔔 Follow for updates • 💼 Let's build something amazing together!**
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d42b-4505-b9bb-09c7c579be44.gif" width="150">
+</div>
